@@ -1,0 +1,16 @@
+[
+  {
+    "wallet": "0x71c...b29",
+    "display_name": "PolymarketTrader",
+    "name": "Alex",
+    "pseudonym": "alextrade",
+    "bio": "Crypto & Macro prediction markets enthusiast",
+    "x_username": "@alextrade",
+    "twitter_url": "https://x.com/alextrade",
+    "market_question": "Will Ethereum reach ,000 by end of year?",
+    "event_id": "0x992381",
+    "timestamp": "2026-04-19T14:30:00Z",
+    "comments_count": 45,
+    "source": "polymarket"
+  }
+]
