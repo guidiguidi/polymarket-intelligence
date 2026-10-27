@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  polymarket-crawler:
+    build: .
+    container_name: polymarket-intelligence
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
