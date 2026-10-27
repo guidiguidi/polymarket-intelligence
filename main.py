@@ -569,7 +569,7 @@ def get_latest_events():
     url = f"{config.GAMMA_API_URL}/events"
     all_events = []
     offset = 0
-    limit = 100  # Максимальный размер батча для API
+    limit = 100  # Maximum batch size for the API
 
     logger.info("Fetching ALL active events from Polymarket...")
 
